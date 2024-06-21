@@ -1,0 +1,252 @@
+.b02-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.b02-overview020102 {
+  text-decoration: none;
+}
+.b02-calendar {
+  text-decoration: none;
+}
+.b02-calendar-text {
+  height: auto;
+  flex-grow: 1;
+  font-size: 15px;
+  font-style: normal;
+  text-align: left;
+  font-family: "Open Sans";
+  font-weight: 500px;
+  line-height: 22px;
+  letter-spacing: 0px;
+}
+.b02-assets {
+  gap: 0px;
+  display: flex;
+  align-self: stretch;
+  transition: 0.3s;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6px;
+  justify-content: flex-start;
+  text-decoration: none;
+}
+
+.b02-assets-text {
+  flex-grow: 1;
+  text-align: left;
+  line-height: 22px;
+}
+.b02-marketing {
+  gap: 0px;
+  display: flex;
+  align-self: stretch;
+  transition: 0.3s;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6px;
+  justify-content: flex-start;
+  text-decoration: none;
+}
+
+.b02-marketing-text {
+  height: auto;
+  flex-grow: 1;
+  font-size: 15px;
+  font-style: normal;
+  text-align: left;
+  font-family: "Open Sans";
+  font-weight: 500px;
+  line-height: 22px;
+  font-stretch: normal;
+  letter-spacing: 0px;
+}
+.b02-advertising {
+  gap: 0px;
+  display: flex;
+  align-self: stretch;
+  transition: 0.3s;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6px;
+  justify-content: flex-start;
+  text-decoration: none;
+}
+
+.b02-advertising-text {
+  height: auto;
+  flex-grow: 1;
+  font-size: 15px;
+  font-style: normal;
+  text-align: left;
+  font-family: "Open Sans";
+  font-weight: 500px;
+  line-height: 22px;
+  font-stretch: normal;
+  letter-spacing: 0px;
+}
+.b02-sales {
+  gap: 0px;
+  display: flex;
+  align-self: stretch;
+  transition: 0.3s;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6px;
+  justify-content: flex-start;
+  text-decoration: none;
+}
+
+.b02-sales-text {
+  height: auto;
+  flex-grow: 1;
+  font-size: 15px;
+  font-style: normal;
+  text-align: left;
+  font-family: "Open Sans";
+  font-weight: 400px;
+  line-height: 22px;
+  letter-spacing: 0px;
+}
+.b02-project {
+  gap: 0px;
+  display: flex;
+  align-self: stretch;
+  transition: 0.3s;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6px;
+  justify-content: flex-start;
+  text-decoration: none;
+}
+
+.b02-project-text {
+  height: auto;
+  flex-grow: 1;
+  font-size: 15px;
+  font-style: normal;
+  text-align: left;
+  font-family: "Open Sans";
+  font-weight: 400px;
+  line-height: 22px;
+  letter-spacing: 0px;
+}
+.b02-customer-service {
+  gap: 0px;
+  display: flex;
+  align-self: stretch;
+  transition: 0.3s;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6px;
+  justify-content: flex-start;
+  text-decoration: none;
+}
+
+.b02-cs-text {
+  height: auto;
+  flex-grow: 1;
+  font-size: 15px;
+  font-style: normal;
+  text-align: left;
+  font-family: "Open Sans";
+  font-weight: 400px;
+  line-height: 22px;
+  letter-spacing: 0px;
+}
+.b02-human-resource {
+  gap: 0px;
+  display: flex;
+  align-self: stretch;
+  transition: 0.3s;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6px;
+  justify-content: flex-start;
+  text-decoration: none;
+}
+
+.b02-hr-text {
+  height: auto;
+  flex-grow: 1;
+  font-size: 15px;
+  font-style: normal;
+  text-align: left;
+  font-family: "Open Sans";
+  font-weight: 500px;
+  line-height: 22px;
+  font-stretch: normal;
+  letter-spacing: 0px;
+}
+.b02-learn-help {
+  gap: 0px;
+  display: flex;
+  align-self: stretch;
+  transition: 0.3s;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6px;
+  justify-content: flex-start;
+  text-decoration: none;
+}
+
+.b02-lh-text {
+  height: auto;
+  flex-grow: 1;
+  font-size: 15px;
+  font-style: normal;
+  text-align: left;
+  font-family: "Open Sans";
+  font-weight: 400px;
+  line-height: 22px;
+  letter-spacing: 0px;
+}
+.b02-reports {
+  gap: 0px;
+  display: flex;
+  align-self: stretch;
+  transition: 0.3s;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6px;
+  justify-content: flex-start;
+  text-decoration: none;
+}
+
+.b02-reports-text {
+  height: auto;
+  flex-grow: 1;
+  font-size: 15px;
+  font-style: normal;
+  text-align: left;
+  font-family: "Open Sans";
+  font-weight: 400px;
+  line-height: 22px;
+  letter-spacing: 0px;
+}
+.b02-settings {
+  gap: 0px;
+  display: flex;
+  align-self: stretch;
+  transition: 0.3s;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6px;
+  justify-content: flex-start;
+  text-decoration: none;
+}
+
+.b02-settings-text {
+  height: auto;
+  flex-grow: 1;
+  font-size: 15px;
+  font-style: normal;
+  text-align: left;
+  font-family: "Open Sans";
+  font-weight: 400px;
+  line-height: 22px;
+  letter-spacing: 0px;
+}
