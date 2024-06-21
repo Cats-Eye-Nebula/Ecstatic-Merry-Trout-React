@@ -11,7 +11,7 @@
     "dangerous-html": "0.1.13"
   },
   "scripts": {
-    "start": "craco start",
+    "start": "craco start", 
     "build": "craco build",
     "test": "craco test --env=jsdom",
     "eject": "craco eject"
@@ -33,5 +33,7 @@
   },
   "devDependencies": {
     "react-scripts": "^5.0.1"
+    "@supabase/supabase-js": "latest"
   }
+
 }
