@@ -9,6 +9,7 @@
     "react-router-dom": "^5.2.0",
     "react-helmet": "^6.1.0",
     "dangerous-html": "0.1.13"
+    "@supabase/supabase-js": "latest"
   },
   "scripts": {
     "start": "craco start", 
@@ -33,7 +34,6 @@
   },
   "devDependencies": {
     "react-scripts": "^5.0.1"
-    "@supabase/supabase-js": "latest"
   }
 
 }
